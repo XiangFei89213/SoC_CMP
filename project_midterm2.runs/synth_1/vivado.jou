@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri Nov 10 22:06:39 2023
+# Process ID: 11528
+# Current directory: C:/vitis_project/project_midterm2/project_midterm2.runs/synth_1
+# Command line: vivado.exe -log mcs_top_sampler.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mcs_top_sampler.tcl
+# Log file: C:/vitis_project/project_midterm2/project_midterm2.runs/synth_1/mcs_top_sampler.vds
+# Journal file: C:/vitis_project/project_midterm2/project_midterm2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source mcs_top_sampler.tcl -notrace
